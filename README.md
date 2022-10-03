@@ -1,4 +1,4 @@
-# Git Basics
+# LEarning Git
 
-Practice repository for learning git workflow!
+Poopsack
 
